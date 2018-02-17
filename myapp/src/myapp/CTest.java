@@ -5,7 +5,7 @@ public class CTest {
 	public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World!");
-        int[] ar1=new int[]{8,2,5,11,3,19,12,21,32,9,6,1,3,15,0,7};
+        int[] ar1=new int[]{8,2,5,11,34,19,12,21,32,9,6,1,3,15,0,7};
       //print first
         System.out.print("≥ı º£∫{");
         for(int i=0;i<ar1.length;i++)
@@ -13,7 +13,7 @@ public class CTest {
             System.out.print(ar1[i]);
             System.out.print(",");
         }
-        
+        //test
         System.out.println("}");
         //Maopao(ar1);
         //jiweijiu(ar1);
